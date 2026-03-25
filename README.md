@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img width="400" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnM3ajF0ZWx4NXA4bTRnaDB1eDZ0bGJ2NHZ1YTB0bWU0emlsZTY1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tLQSYnrLCGcKY/giphy.gif">
+</p>
 
-<!--
-**PabloVlls/PabloVlls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+ &#128073...  Juan Pablo ...&#128072
+</h3> 
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%93e48a&size=25&center=true&vCenter=true&width=600&height=100&lines=VideoGame+Programmer;"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <picture><img src = "https://i.gifer.com/ZNec.gif" width = 30px></picture> About me
+
+<picture> <img align="right" src="https://i.gifer.com/3F3F.gif" width = 200px></picture>
+
+
+- 🆕🎮 I am a Junior VideoGame Programmer
+- 🕹️ Unity
+- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+110k subs)
+- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
+- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
+- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+<br>
