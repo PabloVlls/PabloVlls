@@ -12,21 +12,28 @@
 
 <h2> <picture><img src = "https://i.gifer.com/ZNec.gif" width = 30px></picture> About me</h2>
 
-<picture> <img align="right" src="https://i.gifer.com/BNLj.gif" width = 500px></picture>
-
-
 - 🆕🎮 I am a Junior VideoGame Programmer
 - 🕹️ Unity
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+## 🛠 &nbsp;Tech Stack
+
+#### 🔧 Languages
+
+![C#](https://img.shields.io/badge/C%23-brightgreen?style=for-the-badge&color=4A5DF7)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
+#### 🖥️ Frameworks
+
+![Unity](https://img.shields.io/badge/Unity-brightgreen?style=for-the-badge&logo=unity&logoColor=000000&color=FFFFFF)
+
+#### 🔧 Tools
+
+![GitKraken](https://img.shields.io/badge/gitkraken-brightgreen?style=for-the-badge&logo=gitkraken&logoColor=ffffff&color=21B586)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 <h2> <picture> <img src="https://i.gifer.com/3F3F.gif" width="45px"> </picture> Personal Projects </h2>
 <table>
@@ -56,3 +63,4 @@
 	<a href="https://www.linkedin.com/in/juan-pablo-villada-soto/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/pablo_vlls/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+
