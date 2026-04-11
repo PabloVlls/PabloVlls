@@ -12,8 +12,12 @@
 
 <h2> <picture><img src = "https://i.gifer.com/ZNec.gif" width = 30px></picture> About me</h2>
 
-- 🆕🎮 I am a Junior VideoGame Programmer
-- 🕹️ Unity
+- 🆕🎮 I´m a Junior VideoGame Programmer.
+- 🕹️ I create my projects with Unity and Visual Studio Code/Visual Studio Community.
+- 🔜 I´m currently developing a personal project with my friends.
+- 💡 I like a lot solve logic problems and help another people.
+- 📈 I always like to improve my knowledge in any subject.
+- 🔍 I´m searching a opportunity to show my skills and improve them
 
 <h2> <picture><img src = "https://i.gifer.com/Paz.gif" width = 45px></picture> Tech Stack</h2>
 
@@ -44,7 +48,7 @@
 <img src="https://i.imgur.com/D4dUzYu.jpeg" width="300" alt="Reddochikin"></a>
 <p>
 <a href="https://github.com/MarianaR24/PolloRojo" target="_blank">
-<img src="https://img.shields.io/badge/Code-E83535?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Project-E83535?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://sparkcore.itch.io/reddochikin" target="_blank">
 <img src="https://img.shields.io/badge/-Play-green?style=for-the-badge&color=0CCF30">
