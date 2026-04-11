@@ -15,7 +15,7 @@
 - 🆕🎮 I am a Junior VideoGame Programmer
 - 🕹️ Unity
 
-## 🛠 &nbsp;Tech Stack
+<h2> <picture><img src = "https://i.gifer.com/Paz.gif" width = 45px></picture> Tech Stack</h2>
 
 #### 🔧 Languages
 
