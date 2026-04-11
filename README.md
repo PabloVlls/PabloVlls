@@ -12,18 +12,26 @@
 
 <h2> <picture><img src = "https://i.gifer.com/ZNec.gif" width = 30px></picture> About me</h2>
 
-<picture> <img align="right" src="https://i.gifer.com/3F3F.gif" width = 200px></picture>
+<picture> <img align="right" src="https://i.gifer.com/BNLj.gif" width = 500px></picture>
 
 
 - 🆕🎮 I am a Junior VideoGame Programmer
 - 🕹️ Unity
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
-
-## Personal Projects
+<h2> <picture> <img src="https://i.gifer.com/3F3F.gif" width="45px"> </picture> Personal Projects </h2>
 <table>
 <td width="50%">
-<h3 align="center">Reddochikin</h3>
+<h2 align="center">Reddochikin</h2>
 <div align="center">
 <p>
 <img src="https://i.imgur.com/D4dUzYu.jpeg" width="300" alt="Reddochikin"></a>
@@ -40,3 +48,11 @@
                                                                                       
 </td>
 </table>  
+
+<h2> <picture> <img src="https://i.gifer.com/1PvN.gif" width="60px"> </picture> Connect with me </h2>
+<p align="center">
+	<a href="mailto:jpvlls13@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/PabloVlls"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/juan-pablo-villada-soto/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/pablo_vlls/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
