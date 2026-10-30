@@ -73,7 +73,7 @@
 <img src="https://img.shields.io/badge/-Play-green?style=for-the-badge&color=0CCF30">
 </a>
 </p>
-<p>It’s December 24th, and everyone wants a *buñuelo* even those who weren’t invited.
+<p>It’s December 24th, and everyone wants a buñuelo even those who weren’t invited.
 Protect them at all costs.</p>
 <h3> Platform: 📱 </h3>
 </div>
