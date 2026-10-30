@@ -58,6 +58,24 @@
 </div>
                                                                                       
 </td>
+
+<td width="50%">
+<h2 align="center">La Noche de los Buñuelos</h2>
+<div align="center">
+<p>
+<img src="https://imgur.com/a/N3lYUiu" width="300" alt="Reddochikin"></a> 
+<p>
+<a href="https://github.com/MarianaR24/PolloRojo" target="_blank">
+<img src="https://img.shields.io/badge/Project-E83535?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://sparkcore.itch.io/reddochikin" target="_blank">
+<img src="https://img.shields.io/badge/-Play-green?style=for-the-badge&color=0CCF30">
+</a>
+</p>
+<p>In the Reddochikin Red-Light District, peace has been hard to find lately. The local mayor has called upon Kevin, a spirit-hunting samurai, to solve the mystery behind a series of inexplicable events unfolding in the area.</p>
+</div>
+                                                                                      
+</td>
 </table>  
 
 <h2> <picture> <img src="https://i.gifer.com/1PvN.gif" width="60px"> </picture> Connect with me </h2>
