@@ -63,12 +63,12 @@
 <h2 align="center">La Noche de los Buñuelos</h2>
 <div align="center">
 <p>
-<img src="https://imgur.com/a/N3lYUiu" width="300" alt="Reddochikin"></a> 
+<img src="https://imgur.com/a/N3lYUiu" width="300" alt="La Noche de los Buñuelos"></a> 
 <p>
-<a href="https://github.com/MarianaR24/PolloRojo" target="_blank">
+<a href="https://github.com/PabloRobledoFranco/MonsterBosqueFight1" target="_blank">
 <img src="https://img.shields.io/badge/Project-E83535?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://sparkcore.itch.io/reddochikin" target="_blank">
+<a href="https://drive.google.com/file/d/14woUPHYC3j5hLYW_bBtFGuz6J7bGIYmh/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/-Play-green?style=for-the-badge&color=0CCF30">
 </a>
 </p>
