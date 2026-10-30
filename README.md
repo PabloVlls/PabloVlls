@@ -55,6 +55,7 @@
 </a>
 </p>
 <p>In the Reddochikin Red-Light District, peace has been hard to find lately. The local mayor has called upon Kevin, a spirit-hunting samurai, to solve the mystery behind a series of inexplicable events unfolding in the area.</p>
+<h3> Platform: 💻 </h3>
 </div>
                                                                                       
 </td>
@@ -63,20 +64,45 @@
 <h2 align="center">La Noche de los Buñuelos</h2>
 <div align="center">
 <p>
-<img src="https://imgur.com/a/N3lYUiu" width="300" alt="La Noche de los Buñuelos"></a> 
+<img width="430" alt="La Noche de los Buñuelos" src="https://github.com/user-attachments/assets/2c4ce973-5d5c-4cae-ab1c-98c98c0321ed" />
 <p>
-<a href="https://github.com/PabloRobledoFranco/MonsterBosqueFight1" target="_blank">
+<a href="https://github.com/PabloRobledoFranco/Contrareloj" target="_blank">
 <img src="https://img.shields.io/badge/Project-E83535?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://drive.google.com/file/d/14woUPHYC3j5hLYW_bBtFGuz6J7bGIYmh/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/-Play-green?style=for-the-badge&color=0CCF30">
 </a>
 </p>
-<p>In the Reddochikin Red-Light District, peace has been hard to find lately. The local mayor has called upon Kevin, a spirit-hunting samurai, to solve the mystery behind a series of inexplicable events unfolding in the area.</p>
+<p>It’s December 24th, and everyone wants a *buñuelo* even those who weren’t invited.
+Protect them at all costs.</p>
+<h3> Platform: 📱 </h3>
 </div>
                                                                                       
 </td>
 </table>  
+
+<table align="center">
+<td width="50%">
+<h2 align="center">Neas in the Forest</h2>
+<div align="center">
+<p>
+<img width="400" alt="Neas in the Forest" src="https://github.com/user-attachments/assets/2673d318-ca8f-4da2-bc2e-e70a64e46f80" />
+<p>
+<a href="https://github.com/PabloRobledoFranco/MonsterBosqueFight1" target="_blank">
+<img src="https://img.shields.io/badge/Project-E83535?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://drive.google.com/file/d/14W8pQR4anXmTfKGge4NHc-WGC0gPaJQE/view?usp=drive_link" target="_blank">
+<img src="https://img.shields.io/badge/-Play-green?style=for-the-badge&color=0CCF30">
+</a>
+</p>
+<p>Your buddies are lost in the forest and are being hunted by monsters.
+Help them escape.</p>
+<h3> Platform: 📱 </h3>
+</div>
+
+                                                                                      
+</td>
+</table>
 
 <h2> <picture> <img src="https://i.gifer.com/1PvN.gif" width="60px"> </picture> Connect with me </h2>
 <p align="center">
